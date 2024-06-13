@@ -12,7 +12,7 @@ This shader may not be the most faithful, so you'll have to adjust it yourself t
 At a typical eye distance, I find it tries to be the sharpest and the most aligned with the resolution.
 These are my personal tastes.
 
-If you use another device, go to here: [Link to the main page](#other).
+If you use another device, go to here: [Link](#other).
 
 See screenshots here: [Link to screenshots](./SCREENSHOTS.md).
 
@@ -149,8 +149,6 @@ See screenshots here: [Link to screenshots](./SCREENSHOTS.md).
 3. **Battery usage & heating & performances**
 - If you notice that your device is heating up or the battery is draining too fast, you may want to disable the shaders and overlays when not in use.
 - My RG35XX SP is a little bit warm, but it's not a problem for me. I don't know about the other devices.
-- 
-
 
 ## Other
 - If you use another device, like Miyoo Mini Plus, use these overlays [1playerinsertcoin Overlays](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/).
