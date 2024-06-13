@@ -21,7 +21,7 @@
 ### Pixelate shader + overlay, 640x424:
 <img src="./screenshots/4 pixelate overlay.png"/>
 
-### Pixelate shader + overlay, 640x424:
+### Quilez shader + overlay, 640x424:
 <img src="./screenshots/5 quilez overlay.png"/>
 
 ### MaybeBestGBA_480p shader + overlay, 640x424:
