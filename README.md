@@ -6,7 +6,7 @@
 
 # `MaybeBestGBA_480p` shader configuration for RetroArch on Anbernic RG35XX
 
-This guide will help you install and configure shaders, overlays and filters for MaybeBestGBA_480p for RetroArch on Anbernic RG35XX devices (plus, H and SP). The old is not 
+This guide will help you install and configure shaders, overlays and filters for MaybeBestGBA_480p for RetroArch on Anbernic RG35XX devices (plus, H and SP). The old one is not supported (but use bilinear2x).
 
 This shader may not be the most faithful, so you'll have to adjust it yourself to suit your needs.
 At a typical eye distance, I find it tries to be the sharpest and the most aligned with the resolution.
